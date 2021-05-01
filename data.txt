@@ -1,0 +1,3 @@
+Name: Simon
+Age: 29
+Favorite color: Grey
